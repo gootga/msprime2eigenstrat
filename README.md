@@ -21,6 +21,6 @@
         │         │          │                │----------------│              │           │                      │
      ┌──┴──┐   ┌──┴──┐    ┌──┴──┐             │       │        │          ┌───┴───┐   ┌───┴───┐               ┌──┴──┐ 
      │     │   │     │    │     │             │       │        │          │       │   │       │               │     │ 
-   Pop1  Pop2 Pop3  Pop4  Pop5  Pop6         Pop7    Mix      Pop8       Pop9  Pop10  Pop11  Pop12          Pop13  Pop14
+  
 
 #Example usage: python3 msprime2eigenstrat.py
